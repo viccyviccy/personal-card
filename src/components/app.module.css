@@ -1,0 +1,4 @@
+.app_div {
+  display: flex;
+  flex-flow: column;
+}
