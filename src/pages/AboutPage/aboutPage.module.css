@@ -3,12 +3,10 @@
   flex-flow: column;
   /* width: 100vw; */
   height: calc(100vh - 60px);
-  background-image: url('../../assets/bckg/009.png');
-  background-size: cover;
-  background-attachment: fixed;
   flex-flow: column;
   align-items: center;
   justify-content: center;
+  padding: 20px 0;
 }
 .about_content {
   display: flex;
@@ -16,8 +14,7 @@
   max-height: calc(100vh - 60px);
   overflow: auto;
   width: 90vw;
-  padding: 3px;
-  /* border: 1px solid white; */
+  padding: 4px 3px;
   background-color: rgba(201, 196, 182, 0.8);
   text-align: center;
   box-shadow: 2px 1px 4px 8px rgba(0, 0, 0, 0.12),

@@ -4,9 +4,6 @@
   height: calc(100vh - 60px);
   justify-content: center;
   align-items: center;
-  background-image: url('../../assets/bckg/009.png');
-  background-size: cover;
-  background-attachment: fixed;
 }
 
 .main_div_subdiv {
