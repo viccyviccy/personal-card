@@ -4,13 +4,13 @@
   width: 100vw;
   height: calc(100vh - 60px);
   justify-content: center;
-  padding: 20px 0 60px 0;
+  padding: 20px 0;
   align-items: center;
 }
 
 .projects_div_grid {
   display: grid;
-  max-height: calc(100vh - 60px);
+  max-height: calc(100vh - 160px);
   overflow: auto;
   width: 90vw;
   align-self: center;
@@ -109,6 +109,10 @@
   }
   .projects_main_div {
     padding: 20px 0;
+  }
+  .projects_div_grid {
+    /* display: grid; */
+    max-height: calc(100vh - 60px);
   }
 }
 

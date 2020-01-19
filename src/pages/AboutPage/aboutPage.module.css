@@ -5,14 +5,13 @@
   /* width: 100vw; */
   height: calc(100vh - 60px);
   flex-flow: column;
-  /* flex-flow: column; */
-  padding: 20px 0 60px 0;
+  padding: 20px 0;
   justify-content: center;
 }
 .about_content {
   display: flex;
   flex-flow: column;
-  max-height: calc(100vh - 60px);
+  max-height: calc(100vh - 160px);
   overflow: auto;
   width: 90vw;
   padding: 4px 3px;
@@ -30,6 +29,10 @@
 
 .about_h2 {
   padding: 10px 0;
+}
+
+.about_p {
+  padding-bottom: 10px;
 }
 
 .about_content::-webkit-scrollbar-track {
@@ -51,6 +54,7 @@
   .about_content {
     max-width: 90vw;
     padding: 25px;
+    max-height: calc(100vh - 60px);
   }
   .about_img {
     max-width: 400px;

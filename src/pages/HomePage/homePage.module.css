@@ -5,7 +5,7 @@
   height: calc(100vh - 60px);
   justify-content: center;
   align-items: center;
-  padding: 20px 0 60px 0;
+  padding: 20px 0;
 }
 
 .main_div_subdiv {
@@ -13,7 +13,7 @@
   display: flex;
   flex-flow: column;
   width: 90vw;
-  max-height: calc(100vh - 60px);
+  max-height: calc(100vh - 160px);
   overflow: auto;
   padding: 20px;
   text-align: center;
@@ -67,6 +67,9 @@
 @media (min-width: 768px) {
   .main_div {
     padding: 20px 0;
+  }
+  .main_div_subdiv {
+    max-height: calc(100vh - 60px);
   }
 }
 
