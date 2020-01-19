@@ -11,7 +11,7 @@
 .about_content {
   display: flex;
   flex-flow: column;
-  max-height: calc(100vh - 160px);
+  max-height: calc(100vh - 60px);
   overflow: auto;
   width: 90vw;
   padding: 4px 3px;
@@ -32,7 +32,7 @@
 }
 
 .about_p {
-  padding-bottom: 10px;
+  padding-bottom: 70px;
 }
 
 .about_content::-webkit-scrollbar-track {

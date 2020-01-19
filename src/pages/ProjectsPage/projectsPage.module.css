@@ -10,7 +10,7 @@
 
 .projects_div_grid {
   display: grid;
-  max-height: calc(100vh - 160px);
+  max-height: calc(100vh - 60px);
   overflow: auto;
   width: 90vw;
   align-self: center;

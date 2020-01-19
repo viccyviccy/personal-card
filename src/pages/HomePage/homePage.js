@@ -20,16 +20,7 @@ const HomePage = () => {
             voluptas autem. Aliquam, recusandae ullam ea fugit aperiam amet
             tenetur officiis eius omnis nesciunt non error nisi earum veritatis
             laborum aut ducimus maxime laudantium quos corrupti ipsa rem quis
-            possimus! Ratione neque aut harum itaque qui doloremque mollitia
-            atque delectus officia voluptates unde, quos velit! Dolore ipsam
-            iusto exercitationem, eos vel, iste, nostrum odio quae commodi
-            libero quis? Veniam praesentium blanditiis totam sit laboriosam
-            nostrum dolore distinctio, dolorem aliquid non? Dolorum nihil eum
-            labore a accusantium fugit unde laudantium reprehenderit, minus
-            rerum? Odio sed consequuntur eum minus, natus corporis quod a.
-            Corrupti cumque itaque delectus impedit nobis dolor nostrum eveniet,
-            dolorum, animi voluptate architecto vitae, dolores accusamus quae
-            autem.
+            possimus!
           </p>
           <div className={s.socialLink_div}>
             <a
