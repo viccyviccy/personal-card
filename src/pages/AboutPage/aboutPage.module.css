@@ -63,6 +63,9 @@
   .about_div {
     padding: 20px 0;
   }
+  .about_p {
+    padding-bottom: 10px;
+  }
 }
 
 @media (min-width: 1024px) {
