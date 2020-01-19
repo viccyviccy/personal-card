@@ -10,9 +10,7 @@ const HomePage = () => {
     <AbsoluteWrapper>
       <div className={s.main_div}>
         <div className={s.main_div_subdiv}>
-          <h1 className={s.main_h1}>
-            Welcome. Or as we say in Ukraine - Вітаю!
-          </h1>
+          <h1 className={s.main_h1}>It`s not magic - it`s coding ♥</h1>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae
             eligendi, rerum perferendis corporis temporibus facilis laudantium

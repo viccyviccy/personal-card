@@ -1,5 +1,6 @@
 .projects_main_div {
   display: flex;
+  flex-flow: column;
   width: 100vw;
   height: calc(100vh - 60px);
   justify-content: center;

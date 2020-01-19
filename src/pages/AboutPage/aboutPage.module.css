@@ -22,9 +22,13 @@
 }
 .about_img {
   display: block;
-  width: 270px;
+  width: 250px;
   height: auto;
   align-self: center;
+}
+
+.about_h2 {
+  padding: 10px 0;
 }
 
 .about_content::-webkit-scrollbar-track {
