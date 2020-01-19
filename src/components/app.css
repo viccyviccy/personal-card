@@ -1,7 +1,7 @@
 .app_div {
   display: flex;
   flex-flow: column;
-  /* position: fixed; */
+  position: fixed;
   font-family: Garamond, Baskerville, Baskerville Old Face, Hoefler Text,
     Times New Roman, serif;
 }
