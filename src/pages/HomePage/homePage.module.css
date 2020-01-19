@@ -5,7 +5,7 @@
   height: calc(100vh - 60px);
   justify-content: center;
   align-items: center;
-  padding: 20px 0;
+  padding: 20px 0 60px 0;
 }
 
 .main_div_subdiv {
@@ -62,6 +62,12 @@
   border-radius: 30px;
   transition: 0.6s ease-in-out;
   cursor: pointer;
+}
+
+@media (min-width: 768px) {
+  .main_div {
+    padding: 20px 0;
+  }
 }
 
 @media (min-width: 1024px) {

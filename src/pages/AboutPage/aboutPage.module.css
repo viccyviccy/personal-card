@@ -6,7 +6,7 @@
   flex-flow: column;
   align-items: center;
   justify-content: center;
-  padding: 20px 0;
+  padding: 20px 0 60px 0;
 }
 .about_content {
   display: flex;
@@ -54,6 +54,9 @@
   .about_img {
     max-width: 400px;
     align-self: center;
+  }
+  .about_div {
+    padding: 20px 0;
   }
 }
 
