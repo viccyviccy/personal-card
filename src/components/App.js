@@ -33,7 +33,7 @@ const App = () => {
         {transitions.map(({ item, props, key }) => (
           <animated.div key={key} style={props}>
             <Switch location={item}>
-              <Route path="/*" exact component={HomePage} />
+              <Route path="/" exact component={HomePage} />
               <Route path="/about" component={AboutPage} />
               <Route path="/projects" component={ProjectsPage} />
               <Route component={HomePage} />
