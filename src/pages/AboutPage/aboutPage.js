@@ -19,24 +19,7 @@ const aboutPage = () => {
             tempora et fugiat quia explicabo ullam tempore aliquam sint dolor?
             Nulla aliquid corrupti quo hic ut ipsa rem expedita minima odio
             quisquam facilis minus exercitationem quibusdam nihil, illum aperiam
-            libero, repudiandae nostrum impedit! Veniam, necessitatibus natus!
-            Quidem nemo mollitia voluptatibus quia non velit facilis omnis.
-            Nesciunt aut quam dicta repellendus molestiae sed, saepe aliquam eum
-            dolorum cupiditate nulla voluptatibus ad quos quasi ab temporibus
-            nobis aspernatur? Consectetur autem, harum voluptatibus quae
-            adipisci alias. Lorem ipsum dolor sit amet, consectetur adipisicing
-            elit. Nemo cumque velit nulla adipisci vero voluptates praesentium
-            necessitatibus totam quia ipsa aperiam, reiciendis, laborum in
-            veritatis consectetur aspernatur deserunt rerum vel? Blanditiis
-            consequatur tempora totam, doloremque illum culpa esse consectetur
-            sit amet doloribus, eos neque aperiam unde commodi, hic architecto
-            harum! Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Earum fuga repudiandae nostrum blanditiis minima nobis dolore
-            voluptates nemo, asperiores fugit beatae ullam, temporibus impedit
-            vitae pariatur molestias consectetur sit dolor praesentium. Neque
-            reiciendis fugit, laudantium reprehenderit eveniet dignissimos
-            commodi mollitia nesciunt, placeat aliquid expedita eaque cupiditate
-            nobis iure. Ipsum, numquam.
+            libero, repudiandae nostrum impedit!
           </p>
         </div>
       </div>
