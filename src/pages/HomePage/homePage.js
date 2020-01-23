@@ -2,6 +2,7 @@ import React from 'react';
 import { ReactComponent as LinkedIn } from '../../assets/linkedin.svg';
 import { ReactComponent as Instagram } from '../../assets/instagram.svg';
 import { ReactComponent as GitHub } from '../../assets/github.svg';
+import { ReactComponent as Email } from '../../assets/gmail.svg';
 import AbsoluteWrapper from '../../components/AbsoluteWrapper/AbsoluteWrapper';
 import s from './homePage.module.css';
 
@@ -47,7 +48,15 @@ const HomePage = () => {
             >
               <GitHub />
             </a>
-            <p className={s.email_p}>iamushakova@gmail.com</p>
+            <a
+              className={s.socialLink}
+              href="mailto:iamushakova@gmail.com"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Email />
+            </a>
+            {/* <p className={s.email_p}>iamushakova@gmail.com</p> */}
           </div>
         </div>
       </div>

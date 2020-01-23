@@ -35,6 +35,11 @@
   padding-bottom: 70px;
 }
 
+.aboutPage_resume_block {
+  display: flex;
+  justify-self: center;
+}
+
 .about_content::-webkit-scrollbar-track {
   -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
   background-color: transparent;

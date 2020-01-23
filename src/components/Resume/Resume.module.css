@@ -1,0 +1,43 @@
+.resume_btn {
+  /* display: flex; */
+  background-image: url('../../assets/images/viktoriia_ushakova_resume_small.jpg');
+  background-size: contain;
+  width: 150px;
+  height: 210px;
+}
+
+.resume_pdf {
+  display: flex;
+  height: 100%;
+  width: 310px;
+}
+
+.closeBTN {
+  background: transparent;
+  border: none;
+  transition: all 0.5s ease-in-out;
+}
+
+.closeBTN:hover {
+  cursor: pointer;
+  transform: scale(1.1, 1.1);
+  transition: all 0.5s ease-in-out;
+}
+
+/* .modal_element {
+  position: relative;
+} */
+
+@media (min-width: 768px) {
+  .resume_pdf {
+    width: 70%;
+    height: 100%;
+  }
+}
+
+@media (min-width: 1024px) {
+  .resume_pdf {
+    width: 80%;
+    height: 100%;
+  }
+}
