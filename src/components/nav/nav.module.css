@@ -3,7 +3,7 @@
   justify-content: center;
   background-color: rgb(201, 196, 182);
   background-size: cover;
-  width: 100vw;
+  max-width: 100vw;
 }
 .nav_ul {
   display: flex;

@@ -5,6 +5,7 @@ import Nav from './nav/nav';
 import HomePage from '../pages/HomePage/homePage';
 import ProjectsPage from '../pages/ProjectsPage/projectsPage';
 import AboutPage from '../pages/AboutPage/aboutPage';
+import Footer from './footer/footer';
 import './app.css';
 
 const App = () => {
@@ -41,6 +42,7 @@ const App = () => {
           </animated.div>
         ))}
       </div>
+      <Footer />
     </div>
   );
 };

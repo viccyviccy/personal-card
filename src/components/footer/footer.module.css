@@ -1,0 +1,15 @@
+.footer {
+  display: flex;
+  width: 100vw;
+  height: 60px;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 0;
+  background-color: rgb(201, 196, 182);
+  text-align: center;
+  font-family: Garamond, Baskerville, Baskerville Old Face, Hoefler Text,
+    Times New Roman, serif;
+}
+
+@media (min-width: 768px) {
+}
