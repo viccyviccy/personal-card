@@ -1,6 +1,6 @@
 import React from 'react';
 // import Viccy001 from '../../assets/images/IMG_5234_.jpg';
-import Resume from '../../components/Resume/Resume';
+import ResumeHooks from '../../components/Resume/ResumeHooks';
 import AbsoluteWrapper from '../../components/AbsoluteWrapper/AbsoluteWrapper';
 import s from './aboutPage.module.css';
 
@@ -11,7 +11,7 @@ const aboutPage = () => {
         <div className={s.about_content}>
           {/* <img src={Viccy001} alt="me" className={s.about_img} /> */}
           <h2 className={s.about_h2}>The journey of a developer</h2>
-          <Resume className={s.aboutPage_resume_block} />
+          <ResumeHooks className={s.aboutPage_resume_block} />
           <p className={s.about_p}>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
             ad inventore accusamus magnam incidunt! Rerum, reprehenderit. Natus

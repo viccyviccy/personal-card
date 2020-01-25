@@ -6,6 +6,10 @@
   height: 210px;
 }
 
+.resume_btn:hover {
+  cursor: pointer;
+}
+
 .resume_pdf {
   display: flex;
   height: 100%;
