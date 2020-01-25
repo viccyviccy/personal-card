@@ -10,7 +10,7 @@
 
 .projects_div_grid {
   display: grid;
-  max-height: calc(100vh - 60px);
+  height: fit-content;
   overflow: auto;
   width: 90vw;
   align-self: center;
@@ -110,10 +110,10 @@
   .projects_main_div {
     padding: 20px 0;
   }
-  .projects_div_grid {
-    /* display: grid; */
+  /* .projects_div_grid {
+    display: grid;
     max-height: calc(100vh - 60px);
-  }
+  } */
 }
 
 @media (min-width: 1024px) {

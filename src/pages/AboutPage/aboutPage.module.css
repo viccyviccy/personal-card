@@ -11,7 +11,7 @@
 .about_content {
   display: flex;
   flex-flow: column;
-  max-height: calc(100vh - 60px);
+  height: fit-content;
   overflow: auto;
   width: 90vw;
   padding: 4px 3px;
@@ -63,7 +63,7 @@
   .about_content {
     max-width: 90vw;
     padding: 25px;
-    max-height: calc(100vh - 60px);
+    /* max-height: calc(100vh - 60px); */
   }
   .about_img {
     max-width: 400px;
