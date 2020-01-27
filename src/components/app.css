@@ -1,16 +1,16 @@
 .app_div {
   display: flex;
   flex-flow: column;
-  /* justify-content: center;
-  align-items: center; */
-  position: fixed;
+  justify-content: center;
+  /* align-items: center; */
+  /* position: fixed; */
   font-family: Garamond, Baskerville, Baskerville Old Face, Hoefler Text,
     Times New Roman, serif;
 }
 
 .background_div {
   width: 100%;
-  height: calc(100vh - 120px);
+  height: calc(100vh - 60px);
   background-image: url('../assets//bckg/002.jpg');
   background-size: cover;
   background-attachment: fixed;
